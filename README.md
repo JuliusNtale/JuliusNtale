@@ -39,7 +39,7 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
   
 - 💼 LinkedIn: Julius Ntale
 
-- 🌱 Instagram: [(https://www.instagram.com/natchy_.p/)] 
+- 🌱 Instagram: [(https://www.instagram.com/am.jhey/)] 
   
 - 🚀 As a rising software engineer, I'm committed to continuous learning and staying updated with the latest technologies.
  <br>
