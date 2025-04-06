@@ -56,9 +56,9 @@ Here, you’ll find a mix of personal and collaborative projects. Each one refle
 I’m always open to collaborations, discussions, or just a friendly chat!  
 
 - 📧 **Email:** [juliusntale30@gmail.com](mailto:juliusntale30@gmail.com)  
-- 💼 **LinkedIn:** [Julius Ntale](https://linkedin.com/in/juliusntale) *(add link)*  
+- 💼 **LinkedIn:** [Julius Ntale](https://www.linkedin.com/in/julius-ntale-aa08902b6)  
 - 📸 **Instagram:** [@am.jhey](https://www.instagram.com/am.jhey/)  
-- 🐦 **Twitter/X:** [Julius Ntale](https://linkedin.com/juliusntale)  
+- 🐦 **Twitter/X:** [Julius Ntale](https://x.com/am_JuliusNtale)  
 
 ---
 
