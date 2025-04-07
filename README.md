@@ -44,11 +44,11 @@ I'm **Julius Ntale**, a passionate software engineering student with a love for 
 ## **🚀 Projects & Contributions**  
 Here, you’ll find a mix of personal and collaborative projects. Each one reflects my learning journey and passion for tech.  
 
-🔹 **[Project 1]** – *Brief description*  
-🔹 **[Project 2]** – *Brief description*  
-🔹 **[Project 3]** – *Brief description*  
+🔹 **[Ntale Portfolio]** – *Brief description*  
+🔹 **[Hillsview Chart ai]** – *Brief description*  
+🔹 **[Under construction Page]** – *Brief description*  
 
-*(Add links to your best projects!)*  
+ 
 
 ---
 
