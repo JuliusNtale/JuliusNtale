@@ -1,4 +1,3 @@
-Here’s an improved and polished version of your GitHub profile README with better formatting, structure, and visual appeal:
 
 ---
 
