@@ -1,75 +1,125 @@
+<div align="center">
+
+# 👋 Hey, I'm Julius Peter Ntale
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Builder;Creative+Technologist+%F0%9F%8E%A8;Building+intelligent+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+**📍 Tanzania**
+
+<a href="mailto:juliusntale30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/julius-ntale-aa08902b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/am.jhey/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/am_JuliusNtale"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+
+</div>
 
 ---
 
-# 👋 Welcome to My GitHub Profile!
-
-## **About Me**  
-
-I'm **Julius Ntale**, a passionate software engineering student with a love for coding, photography, and videography. I enjoy building innovative solutions and capturing moments through my lens.  
-
-- 🔭 **Currently working on:** Advanced algorithms, machine learning, and mobile app development.  
-- 🌱 **Learning:** React, Node.js, and cloud computing.  
-- 💡 **Interests:** Open-source projects, AI, and creative media.  
-- 📸 **Fun Fact:** I love traveling and documenting stories through photography.  
+I build **scalable software systems**, **AI-powered solutions**, and **modern web applications**, while blending creativity through **photography and videography**.  
+My goal is to create technology that is **useful, intelligent, and visually impactful**.
 
 ---
 
-## **📊 GitHub Stats & Performance**  
+## 🧠 About Me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuliusNtale&theme=radical&border_radius=9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+| 🎓 Education | 💻 Focus Areas | 🌍 Mission |
+|-------------|----------------|------------|
+| Software Engineering @ University of Dodoma | Full-stack Dev, AI Agents, Cloud Systems | Tech that solves real-world business problems |
 
-![](https://github-readme-stats.vercel.app/api?username=JuliusNtale&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusNtale&layout=compact&theme=radical)](https://github.com/JuliusNtale)  
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuliusNtale&theme=radical&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
-## **🛠️ Skills & Technologies**  
-
-### **Programming & Development**  
-- **Languages:** Python, JavaScript, Java, HTML/CSS  
-- **Frameworks:** React, Node.js, Flask  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, Docker, VS Code  
-
-### **Creative Media**  
-- **Photography & Editing:** Adobe Photoshop, Lightroom  
-- **Videography:** Premiere Pro, CapCut Pro  
+- 🤖 Currently building **AI-driven tools**, e-commerce platforms, and automation systems  
+- 🎨 Creative background in **photography & videography**
 
 ---
 
-## **🚀 Projects & Contributions**  
-Here, you’ll find a mix of personal and collaborative projects. Each one reflects my learning journey and passion for tech.  
+## 🛠️ Tech Stack
 
-🔹 **[Ntale Portfolio]** – *Brief description*  
-🔹 **[Hillsview Chart ai]** – *Brief description*  
-🔹 **[Under construction Page]** – *Brief description*  
+<div align="center">
 
- 
+### 💻 Languages & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ DevOps & AI
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🎨 Creative Suite
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+</div>  
 
 ---
 
-## **📫 Let’s Connect!**  
-I’m always open to collaborations, discussions, or just a friendly chat!  
+## 🚀 Featured Projects
 
-- 📧 **Email:** [juliusntale30@gmail.com](mailto:juliusntale30@gmail.com)  
-- 💼 **LinkedIn:** [Julius Ntale](https://www.linkedin.com/in/julius-ntale-aa08902b6)  
-- 📸 **Instagram:** [@am.jhey](https://www.instagram.com/am.jhey/)  
-- 🐦 **Twitter/X:** [Julius Ntale](https://x.com/am_JuliusNtale)  
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🛒 **NeuralShop** | AI-powered e-commerce platform | `React` `Node.js` `AI` |
+| 🤖 **AI Chat / Agent Systems** | Business automation & customer support | `Python` `OpenAI` |
+| 🌐 **Portfolio Website** | Personal brand & creative showcase | `Vue.js` `TailwindCSS` |
+| 📡 **Network & Billing Systems** | ISP & hotspot automation | `Node.js` `MySQL` |
 
----
-
-## **🎓 Education**  
-🎯 **Software Engineering Student**  
-🏛️ **University of Dodoma, Tanzania**  
+> 📌 *More projects in my repositories — feel free to explore!*
 
 ---
 
-### **Thanks for visiting!**  
-Happy coding, and feel free to explore my repositories! 🚀  
+## 📊 GitHub Stats
 
-**Julius Peter Ntale**  
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuliusNtale&theme=radical&border_radius=10&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=JuliusNtale&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusNtale&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JuliusNtale&theme=radical&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuliusNtale&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
+
+## 🌐 Let’s Connect
+
+<div align="center">
+
+I'm open to **collaborations**, **freelance work**, and **startup ideas**.
+
+[![Email](https://img.shields.io/badge/juliusntale30@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juliusntale30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Julius_Ntale-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-ntale-aa08902b6)
+[![Instagram](https://img.shields.io/badge/@am.jhey-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/am.jhey/)
+[![X](https://img.shields.io/badge/@am__JuliusNtale-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/am_JuliusNtale)
+
+</div>
+
+---
+
+## 🎯 Vision
+
+<div align="center">
+
+> *"Build intelligent systems that empower people and businesses."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=JuliusNtale&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+Thanks for stopping by — feel free to ⭐ any project you like and reach out 🚀
+
+**Made with ❤️ by Julius Peter Ntale**
+
+</div>
