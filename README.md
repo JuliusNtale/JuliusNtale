@@ -84,12 +84,19 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuliusNtale&theme=radical&border_radius=10&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuliusNtale&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusNtale&layout=compact&theme=radical&hide_border=true" height="180"/>
+<br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JuliusNtale&theme=radical&no-frame=true&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=JuliusNtale&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusNtale&layout=compact&theme=radical&hide_border=true" height="170" alt="languages"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuliusNtale&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/><br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=JuliusNtale&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuliusNtale&theme=radical&hide_border=true&area=true" width="95%" alt="activity"/>
 
 </div>
 
