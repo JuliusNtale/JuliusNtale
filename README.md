@@ -82,7 +82,7 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuliusNtale&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=EB0600&fire=EBE108&stroke=EB5454)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuliusNtale&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=EB0600&fire=EBE108&stroke=EB5454" alt="GitHub Streak" /></a>
 
 <br/>
 
