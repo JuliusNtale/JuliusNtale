@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Julius Peter Ntale
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Builder;Creative+Technologist+%F0%9F%8E%A8;Building+intelligent+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Builder;Creative+Tech+Enthusiast;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
 **📍 Tanzania**
 
@@ -82,7 +82,7 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuliusNtale&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=EB0600&fire=EBE108&stroke=EB5454" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuliusNtale&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=EB0600&fire=EB5B00&currStreakLabel=EB5B00)](https://git.io/streak-stats)
 
 <br/>
 
@@ -96,13 +96,13 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuliusNtale&theme=radical&hide_border=true&area=true" width="95%" alt="activity"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuliusNtale&theme=radical&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
