@@ -86,13 +86,7 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuliusNtale&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusNtale&layout=compact&theme=radical&hide_border=true" height="170" alt="languages"/>
-
-<br/><br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JuliusNtale&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuliusNtale&theme=radical&no-frame=true&row=1&column=6)
 
 <br/>
 
