@@ -69,7 +69,7 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🛒 **NeuralShop** | AI-powered e-commerce platform | `React` `Node.js` `AI` |
+| 🛒 **NeuralShop** | An AI-powered e-commerce platform | `React` `Node.js` `AI` |
 | 🤖 **AI Chat / Agent Systems** | Business automation & customer support | `Python` `OpenAI` |
 | 🌐 **Portfolio Website** | Personal brand & creative showcase | `Vue.js` `TailwindCSS` |
 | 📡 **Network & Billing Systems** | ISP & hotspot automation | `Node.js` `MySQL` |
