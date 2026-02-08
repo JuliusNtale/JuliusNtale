@@ -65,7 +65,7 @@ My goal is to create technology that is **useful, intelligent, and visually impa
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 | Project | Description | Stack |
 |---------|-------------|-------|
